@@ -10,9 +10,9 @@ Hey, I'm Ilya (Ibff77).<br>Gamer first, developer second. I run CS, Minecraft an
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Ib-FF77&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=IbFF77&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=IbFF77&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ib-FF77&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=IbFF77&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Ib-FF77&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
